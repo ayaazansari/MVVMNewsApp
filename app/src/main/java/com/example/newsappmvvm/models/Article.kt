@@ -1,4 +1,4 @@
-package com.example.newsappmvvm
+package com.example.newsappmvvm.models
 
 import Source
 import androidx.room.Entity
