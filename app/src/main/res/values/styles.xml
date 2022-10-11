@@ -8,6 +8,7 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="colorAccentLight">@color/colorAccent</item>
         <item name="colorAccentLightnew">@color/colorAccent</item>
+        <item name="colorPrimaryDark2">@color/colorPrimaryDark</item>
     </style>
 
 </resources>
