@@ -13,6 +13,7 @@ interface NewsAPI {
         @Query("country")
         countryCode :String = "in",
         @Query("page")
+        
         pageNumber:Int = 1,
         @Query("apiKey")
         apiKey :String = API_KEY
